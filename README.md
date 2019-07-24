@@ -1,2 +1,2 @@
 # oracle_connection_python
-Python Class for Oracle querry
+Python Class for Oracle query
